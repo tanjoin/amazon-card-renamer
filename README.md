@@ -81,7 +81,7 @@ ctx.fillRect(0, 0, 128, 128);
 ctx.font = '64px sans-serif';
 ctx.textAlign = 'center';
 ctx.textBaseline = 'middle';
-ctx.fillText('🛒', 64, 64);
+ctx.fillText('💳️', 64, 64);
 
 const link = document.createElement('a');
 link.download = 'icon128.png';

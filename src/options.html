@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>設定 - Amazon Card Renamer</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; max-width: 500px; }
+    .form-group { margin-bottom: 15px; }
+    input { padding: 5px; margin-right: 10px; }
+    button { padding: 5px 10px; cursor: pointer; }
+    li { margin-bottom: 10px; }
+    .delete-btn { margin-left: 15px; color: red; }
+  </style>
+</head>
+<body>
+  <h2>カード名の登録</h2>
+  <div class="form-group">
+    下4桁: <input type="text" id="last4" maxlength="4" placeholder="例: 9876">
+    表示名: <input type="text" id="customName" placeholder="例: ほげほげカード">
+    <button id="saveBtn">保存</button>
+  </div>
+  
+  <hr>
+  
+  <h2>登録済みカード</h2>
+  <ul id="cardList"></ul>
+
+  <script src="options.js"></script>
+</body>
+</html>

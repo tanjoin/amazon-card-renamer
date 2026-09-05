@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Amazon Card Renamer",
+  "version": "1.0",
+  "description": "Amazonのクレジットカード表記をわかりやすい名前に変更します。",
+  "permissions": [
+    "storage"
+  ],
+  "options_page": "options.html",
+  "icons": {
+    "16": "icon128.png",
+    "48": "icon128.png",
+    "128": "icon128.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icon128.png",
+      "48": "icon128.png",
+      "128": "icon128.png"
+    },
+    "default_title": "Amazon Card Renamer"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.amazon.co.jp/*"],
+      "js": ["content.js"]
+    }
+  ]
+}

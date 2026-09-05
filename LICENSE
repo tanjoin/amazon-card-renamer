@@ -1,0 +1,71 @@
+Amazon Card Renamer License
+
+Copyright (c) 2026
+
+本ソフトウェアおよび関連ファイルは、所有者によって管理される専有ライセンスの下で提供されます。
+This software and associated files are provided under a proprietary license.
+
+1. Scope of Use / 利用範囲
+   You may use this software only for personal, non-commercial, and evaluation purposes.
+   本ソフトウェアは、個人利用、非商用利用、および評価・動作確認の目的に限って使用できます。
+
+   You may not use this software for commercial purposes, including sale, rental, licensing,
+   or distribution for profit.
+   商用目的での利用、販売、賃貸、ライセンス提供、利益を伴う配布はできません。
+
+2. No Redistribution / 再配布の禁止
+   You may not redistribute, publish, share, sublicense, or otherwise provide this software
+   or any modified version of it to any third party in any form, including source code,
+   compiled binaries, archives, or installation packages.
+   本ソフトウェアおよびその改変版を、ソースコード、バイナリ、アーカイブ、インストール用パッケージ
+   を含むあらゆる形式で、第三者へ再配布、公開、共有、サブライセンス提供、または譲渡することはできません。
+
+3. No Modification and No Public Release / 改変および公開の禁止
+   You may not modify, adapt, translate, decompile, reverse engineer, or create derivative works
+   based on this software, except for temporary internal testing or debugging for your own use.
+   本ソフトウェアを、個人的な試験・デバッグのための一時的な利用を除き、改変、翻訳、逆コンパイル、
+   リバースエンジニアリング、派生物の作成、または公開のための配布を行ってはなりません。
+
+   You may not publish, upload, or distribute any modified version of this software.
+   改変版を公開、アップロード、配布することも禁止します。
+
+4. Prohibited Misuse / 悪用の禁止
+   You may not use this software to violate any applicable laws, regulations, terms of service,
+   or platform policies, including Amazon's terms or any other provider's rules.
+   本ソフトウェアを、適用される法令、規制、利用規約、またはプラットフォームのポリシーに違反する目的に
+   使用してはなりません。Amazon の利用規約やその他サービスの規約を含みます。
+
+   You may not use this software for fraud, impersonation, deception, scraping, or unauthorized
+   access or automation that violates applicable terms.
+   詐欺、なりすまし、欺瞞、スクレイピング、不正アクセス、利用規約に違反する自動化などの目的で
+   使用してはなりません。
+
+5. No Warranty / 保証の否認
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+   本ソフトウェアは「現状有姿」で提供され、明示または黙示を問わず、商品性、特定目的への適合性、
+   非侵害性について一切の保証を行いません。
+
+   IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES,
+   OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+   著作者または著作権者は、本ソフトウェアの使用またはその他の取引に起因または関連して生じる、
+   いかなる請求、損害、その他の責任についても、一切の責任を負いません。
+
+6. Rights Reserved / 権利留保
+   All rights not expressly granted in this License are reserved by the copyright holder.
+   本ライセンスで明示的に許可されていない一切の権利は、著作権者に留保されます。
+
+7. Termination / 解除
+   If you fail to comply with any term of this License, your permission to use this software
+   automatically terminates.
+   本ライセンスのいずれかに違反した場合、当該ソフトウェアの利用許可は自動的に終了します。
+
+8. Governing Law / 準拠法
+   This License shall be governed by and construed in accordance with the laws of the jurisdiction
+   where the copyright holder is located, without regard to conflict of law principles.
+   本ライセンスは、著作権者の所在する地域の法律に従い解釈されます。
+
+By using this software, you acknowledge that you have read and agree to be bound by the terms
+of this License.
+本ソフトウェアを使用することにより、利用者は本ライセンスを読み、これに同意したものとみなされます。
